@@ -1,5 +1,5 @@
 body {
-    background: rgb(0, 0, 0);
+    background: #F6E9D4;
     margin-top: 50px;
     margin-left: 100px;
     }
@@ -15,14 +15,14 @@ body {
   h1 {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 2.5em;
-    color: rgb(255, 255, 255);
-    align-content: center;
+    color: #9E0B0F;
+    text-align: center;
     }
 
    .center {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 70%;
+        width: 30%;
         
      }
